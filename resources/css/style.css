@@ -10,7 +10,7 @@ h1 {
    color: white;
 }
 
-h2 {
+.reduced-size {
   font-size: 42px;
   font-weight: 300;
 }
